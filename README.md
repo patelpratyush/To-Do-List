@@ -4,7 +4,7 @@ This is a simple To-Do List project built using JavaScript. The application allo
 
 ## Website Link
 
-[Personal To-Do List](https://personal-todolist.vercel.app/){:target="_blank"}
+[Personal To-Do List](https://personal-todolist.vercel.app/)
 
 ## Getting Started
 
